@@ -7,12 +7,12 @@ import requests
 import json
 import os
 
-# hello this is aagam, trying version control for colalborative coding
+# hello this is aagam, trying vers
 # Zoho CRM API endpoints
 ZOHO_TOKEN_URL = 'https://accounts.zoho.in/oauth/v2/token'
 ZOHO_API_BASE = 'https://www.zohoapis.in/crm/v2'
 
-# Your Zoho credentials (move to environment variables)
+# Your Zoho credentials ( to environment variables)
 ZOHO_CLIENT_ID = '1000.41SOIG7073OKN5GHZHE8EASX1VXQ2S'
 ZOHO_CLIENT_SECRET = '054329d1f2ecf830767fdf782dd97b96126bf50228'
 ZOHO_REDIRECT_URI = 'https://mangos-frontend.onrender.com/zoho-crm'
